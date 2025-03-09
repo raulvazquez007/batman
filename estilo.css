@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.header {
+    background: url('./imagenes/header_background.jpeg') no-repeat center center/cover;
+    padding: 100px 20px;
+}
+.header h1 {
+    font-size: 28px;
+    color: rgb(255, 255, 255);
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    text-align: left;
+}
+h2 {
+    color: red;
+}
+.spoilers {
+    font-weight: bold;
+    color: yellow;
+}
+.video-container {
+    text-align: center;
+    margin: 20px 0;
+}
+.image {
+    width: 100%;
+    max-width: 800px;
+    margin: 10px 0;
+}
+.footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+    background: #111;
+}
