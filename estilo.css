@@ -7,8 +7,9 @@ body {
 }
 
 .header {
-    background: url('./imagenes/header_background.jpeg') no-repeat center/cover;
-    padding: 100px 20px;
+    background-image:url('./imagenes/header_background.jpeg');
+    height: 90vh;
+    padding: 80px 80px;
     color: #fff;
 }
 
