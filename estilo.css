@@ -10,6 +10,7 @@ body {
     background-image:url('./imagenes/header_background.jpeg');
     height: 90vh;
     padding: 80px 80px;
+    margin: auto;
     color: #fff;
 }
 
