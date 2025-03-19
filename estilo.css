@@ -15,10 +15,10 @@ body {
 }
 
 .container {
-    max-width: 800px;
+    max-width: 50%;
     margin: auto;
     padding: 20px;
-    text-align: left;
+    text-align: justify;
 }
 
 .video-container, .image {
@@ -28,8 +28,8 @@ body {
 }
 
 .footer {
-    padding: 20px;
-    font-size: 14px;
-    background: #111;
-    color: #fff;
+    background: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
 }
