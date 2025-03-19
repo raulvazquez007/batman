@@ -8,8 +8,8 @@ body {
 
 .header {
     background-image:url('./imagenes/header_background.jpeg');
-    height: 90vh;
-    padding: 80px 80px;
+    height: 100vh;
+    padding: 300px;
     margin: auto;
     color: #fff;
 }
